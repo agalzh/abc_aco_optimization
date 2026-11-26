@@ -1,0 +1,22 @@
+Key,Value
+dg3,0.04
+dg2,0.54
+dg1,1.5
+loopk,10
+c5,0.002
+c4,0.067
+c3,0.615
+c2,1.55
+c1,1
+unc_final,0.909
+unc_sse_pct,9.1
+unc_peak,1.66
+unc_os_pct,83
+unc_settle,19
+unc_pole_re,-0.20
+unc_pole_im,4.48
+unc_zeta,0.045
+abc_poles,-1.04;  -1.89;  -3.34 ± j6.71;  -23.88
+abc_c2,4.070
+abc_c1,8.716
+abc_c0,5.273

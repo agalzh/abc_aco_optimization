@@ -1,0 +1,15 @@
+Key,Value
+Ku,1.216
+Pu,1.306
+zeta_zn,0.32
+zeta_aco,0.34
+zeta_abc,0.45
+zn_Kp,0.729
+zn_Ki,1.117
+zn_Kd,0.119
+radius_aco_early,0.578
+radius_aco_late,0.011
+radius_abc_early,0.722
+radius_abc_late,0.318
+contract_aco,54
+contract_abc,2.3
